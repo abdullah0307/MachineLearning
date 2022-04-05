@@ -1,0 +1,33 @@
+I have data of health results from people in the organization. I want to you to make an analysis based on the data and give me the results you get from the analysis.
+
+At the end, I expect that from result of the analysis, what can you recommend about the organization to help improve people's health. Also, how much does the waking event effect people's health?
+
+Also, because it is hard to define healthy in this context and this set of data. You can assume that if the medical cost decreases = healthier and on the other hand, if the medical cost increase = not healthy.
+
+1.I want you to do the analysis in Python.
+
+2.These two are a must for models:
+
+-logistic regression
+
+-decision tree
+
+
+
+and other models that seem good for the analysis. 
+
+3.
+
+These are the explanation for data
+
+cost1-cost5 are how much did people pay for their medical cost from year1 to year5
+
+Q and A is the answer collected from the questionnaire
+
+Question is the list of questions being asked in the questionnaire.
+
+test1-test5 are the result of health examination from year1 to year5
+
+walking event collects a data of people join the event in each year.
+
+special guidance will give you a guideline for those who tend to have a health issue and might result in paying for more medical cost
