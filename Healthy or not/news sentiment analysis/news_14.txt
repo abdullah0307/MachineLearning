@@ -1,0 +1,7 @@
+App outage locks hundreds of Tesla drivers out of cars
+Dozen of motorists report error as company's CEO, Elon Musk, apologises on Twitter
+Hundreds of Tesla drivers were locked out of their cars at the start of the weekend after the manufacturer's mobile app suffered an outage - and dozens voiced their complaints on social media.
+Elon Musk, Tesla's chief executive, said on Friday that the company's mobile application was coming back online after the app server outage. Musk was responding to a Tesla owner's tweet, who said that he was experiencing a "500 server error" to connect his Model 3 through the iOS app in Seoul, South Korea.
+"Should be coming back online now. Looks like we may have accidentally increased verbosity of network traffic," Musk said.
+The outage was first reported by specialist electric vehicle website Electrek, which started receiving reports from Tesla owners in the US and Canada, then from Europe and Asia.
+About 500 users reported they faced an error at about 4.40pm ET (9.40pm GMT), according to outage monitoring website Downdetector, which tracks outages by collating status reports from a series of sources, including user-submitted errors on its platform. There were just over 60 reports by about 9.20pm ET.

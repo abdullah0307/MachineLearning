@@ -1,0 +1,18 @@
+First, we upload a data set files.
+Then we merge all files to create a new data frame.
+Now we separate the data for training and testing through indexing.
+After splitting data apply the count vectorizer to transform data from textual to numeric form so the model can understand the data.
+Applying a Naive-Bayes Algrothim To Find the Predictions.
+Part2
+In part 2 we create a list of positive and negative word files by using their text file through for loop and storing the results in a list.
+After this apply Frequency Distribution a function of count vectorizer which is used to count the number of each word.
+Apply a proportion formula to find positive words for each article and negative words for each article and store the values in the list.
+Import a CSV file through the panda's library in which the values of Return Of Equity(ROE) and Net Profit Margin(NPM) are stored.
+Calculate a company's performance based on ROE and NMP.
+Create a data frame with features and labels.
+Separate a feature and labels in training and testing data through indexing.
+Apply the first Logistic Regression Model to a data set to find the predictions.
+We use an SK-learn function feature importance to find an important feature of Logistic Regression.
+The second Model is the Random Forests Model which is also used to find the predictions.
+We also use an Sk-learn Regression feature importance to find an important feature of Random Forests.
+
